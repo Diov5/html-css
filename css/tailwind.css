@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+
+.biru{
+    color: #0498A9;
+}
+
+.orange{
+    color: #F54720;
+}
+
+.font-comfortaa {
+    font-family: 'Comfortaa', cursive;
+}
+
+.hijau {
+    background: #449D44;
+
+}
+@tailwind utilities;
